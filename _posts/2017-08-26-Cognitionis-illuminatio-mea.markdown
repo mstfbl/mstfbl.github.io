@@ -6,6 +6,7 @@ tag:
 - blog
 description: "My personal motto"
 blog: false
+published: false
 ---
 
 ---
