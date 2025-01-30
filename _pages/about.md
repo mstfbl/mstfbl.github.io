@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Working on something new! Ex-MLE at <a href='https://www.snowflake.com/en/'>Snowflake</a>, Microsoft <a href='https://www.harvard.edu'>Harvard</a> '19 CS & Linguistics, <a href='https://tjhsst.fcps.edu'>TJHSST</a> '15
+subtitle: CEO at <a href="https://www.nomadicml.com/">NomadicML</a>. Ex-MLE at <a href='https://www.snowflake.com/en/'>Snowflake</a>, Microsoft <a href='https://www.harvard.edu'>Harvard</a> '19 CS & Linguistics, <a href='https://tjhsst.fcps.edu'>TJHSST</a> '15
 
 profile:
   align: right
